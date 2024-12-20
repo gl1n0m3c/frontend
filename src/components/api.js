@@ -5,7 +5,7 @@ const me = `${api}/users/me`;
 const cards = `${api}/cards`;
 
 const headers = {
-    authorization: "961a71fe-eb41-46f5-a026-43e86bb63e8d",
+    authorization: "52677620-37aa-4b74-b68d-dab3bad3dd2d",
     'Content-Type': "application/json"
 };
 
