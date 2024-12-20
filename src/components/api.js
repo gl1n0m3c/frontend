@@ -1,11 +1,11 @@
 
-const api = "https://nomoreparties.co/v1/frontend-st-cohort-201";
+const api = "https://nomoreparties.co/v1/apf-cohort-202";
 
 const me = `${api}/users/me`;
 const cards = `${api}/cards`;
 
 const headers = {
-    authorization: "52677620-37aa-4b74-b68d-dab3bad3dd2d",
+    authorization: "961a71fe-eb41-46f5-a026-43e86bb63e8d",
     'Content-Type': "application/json"
 };
 
